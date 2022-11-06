@@ -5,10 +5,10 @@ I'm Özgür, I'm a Software Developer. I am sharing my projects here. I usually 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ozgurruzgar&color=green" alt="aticiadem :: Profile Stats"></a>
-<a href="mailto:ozgurruzgar01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ozgurruzgar01@gmail.com-blue?style=flat&logo=gmail"></a>
+<img src="https://komarev.com/ghpvc/?username=ozgurruzgar&color=blue" alt="aticiadem :: Profile Stats"></a>
+<a href="mailto:ozgurruzgar01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ozgurruzgar01@gmail.com-mediuamaquaremine?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/ozgurruzgar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ozgurruzgar-blue?style=flat&logo=linkedin"></a>
-<a href="https://medium.com/@ozgurruzgar01"><img alt="Medium" src="https://img.shields.io/badge/Medium-ozgurruzgar01-blue?style=flat&logo=Medium"></a>
+<a href="https://medium.com/@ozgurruzgar01"><img alt="Medium" src="https://img.shields.io/badge/Medium-ozgurruzgar01-mediuamaquaremine?style=flat&logo=Medium"></a>
 </a>
 </p>
 
