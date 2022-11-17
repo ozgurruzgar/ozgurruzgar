@@ -22,5 +22,5 @@ I'm Özgür, I'm a Software Developer. I am sharing my projects here. I usually 
   
 </p>
 
-[0]: https://www.mobiler.dev/
+[0]:
 
