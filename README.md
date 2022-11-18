@@ -1,5 +1,5 @@
 
-### Hi, Welcome To My Github Profile 👋 👋 👋
+### Hi, Welcome To My Github Profile 👋 👋 
 
 I'm Özgür, I'm a Software Developer. I am sharing my projects here. I usually use the C-Sharp programming language for Back-End projects. 
 <h3 align="center">Connect with me:</h3>
