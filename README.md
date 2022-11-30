@@ -9,6 +9,7 @@ I'm Özgür, I'm a Software Developer. I am sharing my projects here. I usually 
 <a href="mailto:ozgurruzgar01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ozgurruzgar01@gmail.com-mediuamaquaremine?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/ozgurruzgar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ozgurruzgar-blue?style=flat&logo=linkedin"></a>
 <a href="https://medium.com/@ozgurruzgar01"><img alt="Medium" src="https://img.shields.io/badge/Medium-ozgurruzgar01-mediuamaquaremine?style=flat&logo=Medium"></a>
+<a href="https://www.hackerrank.com/ozgurruzgar01"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-ozgurruzgar01-blue?style=flat&logo=HackerRank></a>
 </a>
 </p>
 
